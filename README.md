@@ -20,11 +20,11 @@ rm -i \*
 
 find /opt/tmp -type f -delete
 
-**Качаем рабочую версию**
-curl -sOfL https://github.com/qzeleza/kvas/blob/main/ipk/kvas_1.1.9-beta_3_all.ipk
-
 **Запускаем установку**
 opkg install
 
 **После перезагрузки настраиваем заново**
 kvas setup
+
+**Может быть полезен**
+kvas reset
