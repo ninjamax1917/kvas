@@ -4,6 +4,7 @@ copilot-proxy.githubusercontent.com
 visualstudio.com
 auth.github.com
 vscode.dev
+vscode-auth.github.com
 login.microsoftonline.com
 auth.github.com
 *githubusercontent.com
@@ -41,3 +42,12 @@ instagram.com
 cdninstagram.com
 2ip.ru
 heroicons.com
+github-copilot.githubusercontent.com
+copilot.github.com
+assets.githubcopilot.com
+production-copilot-dotcom.azureedge.net
+*.github.com
+*.githubusercontent.com
+*.azureedge.net
+
+
